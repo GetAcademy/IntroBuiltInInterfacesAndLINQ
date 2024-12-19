@@ -3,8 +3,9 @@
    - dette er basert på to innebygde interfacer
  - IEnumerable og IEnumerator
    - to innebygde interfacer
-   - fine eksempler på interface
-   - sentrale i C#
+   - eksempler på interface
+   - viktige i C#
+   - vi lager en egen implementasjon for en konkret tallrekke
  - LINQ
    - extension methods
-   - builder pattern
+   - builder pattern, eks. klasseing CharacterDrawing
