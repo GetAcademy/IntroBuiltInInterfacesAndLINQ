@@ -8,4 +8,4 @@
    - vi lager en egen implementasjon for en konkret tallrekke
  - LINQ
    - extension methods
-   - builder pattern, eks. klasseing CharacterDrawing
+   - builder pattern, eks. klassen CharacterDrawing
