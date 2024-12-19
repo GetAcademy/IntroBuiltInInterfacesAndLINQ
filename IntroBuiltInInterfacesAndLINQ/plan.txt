@@ -1,0 +1,10 @@
+ - foreach 
+   - kan brukes med array, List og mye annet
+   - dette er basert på to innebygde interfacer
+ - IEnumerable og IEnumerator
+   - to innebygde interfacer
+   - fine eksempler på interface
+   - sentrale i C#
+ - LINQ
+   - extension methods
+   - builder pattern
